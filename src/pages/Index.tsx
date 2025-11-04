@@ -61,7 +61,7 @@ const Index = () => {
               Rent Equipment in Kasaragod — Starting with Pressure Washers
             </h1>
             <p className="text-xl md:text-2xl text-background/95 mb-4 font-medium">
-              24-hour delivery, hassle-free service
+              24*7 delivery, hassle-free service
             </p>
             <p className="text-lg md:text-xl text-background/90 mb-8 max-w-2xl">
               From pressure washers to garden tools and drilling machines — we bring professional equipment right to your doorstep.
@@ -345,7 +345,7 @@ const Index = () => {
                 <div className="space-y-3 text-left">
                   <div className="flex justify-between items-center">
                     <span className="font-medium">Monday - Sunday</span>
-                    <span className="text-muted-foreground">8:00 AM - 8:00 PM</span>
+                    <span className="text-muted-foreground">24 hrs</span>
                   </div>
                   <div className="pt-4 border-t">
                     <p className="text-sm text-muted-foreground text-center">
