@@ -327,7 +327,7 @@ const Index = () => {
                 onClick={handleBookNow}
               >
                 <Phone className="mr-2" />
-                WhatsApp: +91 98765 43210
+                WhatsApp: +91 95266 73206
               </Button>
               <Button 
                 variant="hero-outline" 
@@ -335,7 +335,7 @@ const Index = () => {
                 onClick={handleCall}
               >
                 <Phone className="mr-2" />
-                Call: +91 98765 43210
+                Call: +91 95266 73206
               </Button>
             </div>
 
