@@ -7,11 +7,11 @@ import areaImage from "@/assets/kasaragod-area.jpg";
 
 const Index = () => {
   const handleBookNow = () => {
-    window.open("https://wa.me/919876543210?text=Hi, I'd like to rent a pressure washer", "_blank");
+    window.open("https://wa.me/919526673206?text=Hi, I'd like to rent a pressure washer", "_blank");
   };
 
   const handleCall = () => {
-    window.location.href = "tel:+919876543210";
+    window.location.href = "tel:+919526673206";
   };
 
   return (
