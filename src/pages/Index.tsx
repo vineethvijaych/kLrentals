@@ -205,7 +205,7 @@ const Index = () => {
             <Card className="overflow-hidden border-2 shadow-lg hover:shadow-xl transition-all duration-300">
               <div className="grid md:grid-cols-2 gap-0">
                 {/* Image */}
-                <div className="relative pt-10 mt-10  pe-10 ps-10 ms-5 me-5 pb-10 h-64 md:h-auto">
+                <div className="relative pt-10  pe-5 ps-5  pb-10 h-100 md:h-auto">
                   <img
                     src={productImage}
                     alt="High-pressure washer available for rent"
